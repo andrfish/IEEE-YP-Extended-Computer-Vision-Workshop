@@ -1,4 +1,4 @@
-# IEEE-YP-Extended-Computer-Vision-Workshop
+# IEEE YP Extended Computer Vision Workshop
 The following codebases are referred to in the Jupyter Notebook:
 - [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
 - [https://github.com/jiajunwu/3dinn](https://github.com/jiajunwu/3dinn)
